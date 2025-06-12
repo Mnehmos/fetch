@@ -6,7 +6,7 @@ A simple and elegant MCP server that fetches URLs and converts their content to 
 
 1. Clone this repository to your desired folder:
    ```bash
-   git clone <repository-url> fetch
+   git clone https://github.com/Mnehmos/fetch.git fetch
    ```
 
 2. Add the following configuration to your `mcp_settings.json` file:
