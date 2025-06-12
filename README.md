@@ -39,6 +39,8 @@ A simple and elegant MCP server that fetches URLs and converts their content to 
 
 5. That's it! The server is ready to use.
 
+Video Guide using Kilo Code: https://youtu.be/D3Rsgggiw8Y
+
 ## Features
 
 - **URL Fetching**: Retrieve content from any URL with proper error handling
