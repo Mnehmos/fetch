@@ -7,9 +7,20 @@ A simple and elegant MCP server that fetches URLs and converts their content to 
 1. Clone this repository to your desired folder:
    ```bash
    git clone https://github.com/Mnehmos/fetch.git fetch
+   cd fetch
    ```
 
-2. Add the following configuration to your `mcp_settings.json` file:
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Build the project:
+   ```bash
+   npm run build
+   ```
+
+4. Add the following configuration to your `mcp_settings.json` file:
    ```json
    "fetch": {
      "name": "fetch",
@@ -26,7 +37,7 @@ A simple and elegant MCP server that fetches URLs and converts their content to 
    
    Make sure to update the `cwd` path to match where you cloned the repository.
 
-3. That's it! The server is ready to use.
+5. That's it! The server is ready to use.
 
 ## Features
 
