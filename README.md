@@ -26,7 +26,7 @@ A simple and elegant MCP server that fetches URLs and converts their content to 
    
    Make sure to update the `cwd` path to match where you cloned the repository.
 
-3. That's it! The server is ready to use. No need to run `npm install` or `npm build` as the compiled files are already included.
+3. That's it! The server is ready to use.
 
 ## Features
 
